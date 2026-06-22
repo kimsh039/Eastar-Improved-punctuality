@@ -18,7 +18,7 @@
 | **김승현** | 인하대학교 | 팀원 | 항공정보포털 및 Flightradar24 데이터 클렌징, 이종 데이터 시계열 기재별 매핑 및 학습 데이터셋 가공 |
 
 ---
-![EASTAR](images/easstar.png)
+![EASTAR](images/easstar.webp)
 
 ## ⚙️ System Architecture (전체 수행 흐름)
 
